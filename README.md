@@ -1,3 +1,2 @@
 # reverse-shell-server
-ababababab
-🐒
+server for my reverse shell app
